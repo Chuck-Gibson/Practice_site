@@ -1,1 +1,1 @@
-this is a practice wibset for my CodeCademy course.
+this is a practice website for my CodeCademy course.
